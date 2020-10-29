@@ -320,6 +320,9 @@
                 }
 
                 @media screen and (max-width:575px){
+                    .banner{
+                        height: 450px;
+                    }
                     .banner-text{
                         width: 100%;
                         height: auto;
