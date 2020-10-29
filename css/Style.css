@@ -291,7 +291,9 @@
                         background-color: unset;
                         font-size: 35px;
                     }
-                    
+                    .banner-text p{
+                        font-size: 50px
+                    }
                     .btnMenu{
                         display: block;
                     }
