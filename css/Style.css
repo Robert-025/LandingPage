@@ -295,6 +295,30 @@
                     .btnMenu{
                         display: block;
                     }
+                    .info{
+                        height: auto;
+                    }
+                    .info-flex{
+                        justify-content: center;
+                        flex-wrap: wrap;
+                    }
+                    .info-card{
+                        width: auto;
+                        margin: 20px;
+                    }
+                    }
+                    .info p{
+                        height: auto;
+                        width: 330px;
+                        padding: 1em 0;
+                    }
+                    .endereco h2{
+                        display: flex;
+                        justify-content: center;
+                    }
+                    .texto-final{
+                        width: 520px;
+                    }
                 }
 
                 
